@@ -1,0 +1,28 @@
+{
+  "name": "practice-land",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+   "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yungstarry/TicTacToe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yungstarry/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/yungstarry/TicTacToe#readme",
+  "devDependencies": {
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
