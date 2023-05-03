@@ -6,7 +6,7 @@ function createContact(){
     phoneNumber.textContent = '📞 123 456 789'
 
     const address = document.createElement('p')
-    address.textContent = "🏠 Hollywood Boulevard 42, Los Angeles, USA";
+    address.textContent = "🏠 Hollywood Bouleevard 42, Los Angeles, USA";
 
     const restaurantLocation = document.createElement('img')
     restaurantLocation.src = "images/restaurant-location.png";
